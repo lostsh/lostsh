@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my chair, okay it sucks, I work on various projects, in particular the Self-e project.
-- 🌱 I’m currently learning a lots of things ! stuff like some programming languages, or computer paradigms, practices or whatever
+- 🌱 I’m currently learning lots of things ! stuff like some programming languages, or computer paradigms, practices or whatever
 - 💬 Ask me about whatever you want !
 
 ## About me
