@@ -14,6 +14,7 @@ I like computer projects, I am a big fan of **Raspberry pi** since the release o
 
 |Borne d'arcade|Sunny|OpenBoat|
 |--------------|--------------|--------------|
+|//////////////|[Sunny project](https://lostsh.github.io/sunny/)|[OpenBoat project](https://github.com/lostsh/openBoat)|
 |![arcade front](img/arcade0.JPG)|![sunny](img/sunny0.JPG)|![boat](img/boat.JPG)|
 |![arcade content](img/arcade1.JPG)|![making sunny](img/sunny1.jpg)|![radio control](img/radioCtrl1.JPG)|
 |![arcade pi](img/arcade2.JPG)|![sunny solar detector](img/sunny2.jpg)|![making radio control](img/radioCtrl2.JPG)|
