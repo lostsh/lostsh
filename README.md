@@ -14,13 +14,13 @@ I like computer projects, I am a big fan of **Raspberry pi** since the release o
 
 |Borne d'arcade|Sunny|OpenBoat|
 |--------------|--------------|--------------|
-|![img/arcade0.JPG]|![img/sunny0.JPG]|![img/boat.JPG]|
-|![img/arcade1.JPG]|![img/sunny1.jpg]|![img/radioCtrl.JPG]|
-|![img/arcade2.JPG]|![img/sunny2.jpg]|![img/radioCtrl.JPG]|
+|![arcade front](img/arcade0.JPG)|![sunny](img/sunny0.JPG)|![boat](img/boat.JPG)|
+|![arcade content](img/arcade1.JPG)|![making sunny](img/sunny1.jpg)|![radio control](img/radioCtrl1.JPG)|
+|![arcade pi](img/arcade2.JPG)|![sunny solar detector](img/sunny2.jpg)|![making radio control](img/radioCtrl2.JPG)|
 |In 2016 I built my arcade machine, on which I love to play Pac-Man|Sunny is a solar tracker project|This is a good example of a handmade motor controller, plus I had to create my own bluetooth remote control, it works surprisingly well|
 
 <!--
-**lostsh/lostsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lostsh/lostsh** is a ✨ _special_ ✨ repository because its `README.md` [](this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
