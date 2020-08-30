@@ -14,8 +14,9 @@ I like computer projects, I am a big fan of **Raspberry pi** since the release o
 
 |Borne d'arcade|Sunny|OpenBoat|
 |--------------|--------------|--------------|
-|![arcade0.jpg]|![sunny0.jpg]|![boat.jpg]|
-|![arcade1.jpg]|![sunny0.jpg]|![radioCtr.jpg]|
+|![img/arcade0.JPG]|![img/sunny0.JPG]|![img/boat.JPG]|
+|![img/arcade1.JPG]|![img/sunny1.jpg]|![img/radioCtrl.JPG]|
+|![img/arcade2.JPG]|![img/sunny2.jpg]|![img/radioCtrl.JPG]|
 |In 2016 I built my arcade machine, on which I love to play Pac-Man|Sunny is a solar tracker project|This is a good example of a handmade motor controller, plus I had to create my own bluetooth remote control, it works surprisingly well|
 
 <!--
