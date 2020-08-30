@@ -10,11 +10,20 @@ I have been passionate about computers for a long time, before knowing how to pr
 
 I like computer projects, I am a big fan of **Raspberry pi** since the release of the 1B + model moreover I also particularly like **Aduino**
 
+#### Languages I can probably do stuff in
+- [x] C99 (Cpp ino)
+- [x] Java
+- [x] JS/HTML/CSS
+- [x] PHP
+- [x] Python (2.1/2.7/3)
+- [x] Assembly
+- [x] Bash
+
 ## Some fun projects
 
-|Borne d'arcade|Sunny|OpenBoat|
-|--------------|--------------|--------------|
-||[Sunny project website](https://lostsh.github.io/sunny/)|[OpenBoat GitHub repo](https://github.com/lostsh/openBoat)|
+|Borne d'arcade|Sunny|OpenBoat|linkeDisplay
+|--------------|--------------|--------------|--------------|
+||[Sunny project website](https://lostsh.github.io/sunny/)|[OpenBoat GitHub repo](https://github.com/lostsh/openBoat)|[linkeDisplay website](https://lostsh.github.io/linkeDisplay/)  [linkeDisplay GitHub repo](https://github.com/lostsh/linkeDisplay)
 |![arcade front](img/arcade0.JPG)|![sunny](img/sunny0.JPG)|![boat](img/boat.JPG)|
 |![arcade content](img/arcade1.JPG)|![making sunny](img/sunny1.jpg)|![radio control](img/radioCtrl1.JPG)|
 |![arcade pi](img/arcade2.JPG)|![sunny solar detector](img/sunny2.jpg)|![making radio control](img/radioCtrl2.JPG)|
@@ -33,4 +42,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
