@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my chair, okay it sucks, I work on various projects, in particular the Self-e project.
-- 🌱 I’m currently learning also lots of things ! stuff like some programming languages, or computer paradigms, practices or whatever
+- 🌱 I’m currently learning a lots of things ! stuff like some programming languages, or computer paradigms, practices or whatever
 - 💬 Ask me about whatever you want !
 
 ## About me
@@ -18,6 +18,8 @@ I like computer projects, I am a big fan of **Raspberry pi** since the release o
 - [x] Python (2.1/2.7/3)
 - [x] Assembly
 - [x] Bash
+
+[Resume](https://lostsh.github.io/assets/pages/about.html)
 
 ## Some fun projects
 
