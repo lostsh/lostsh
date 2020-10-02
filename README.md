@@ -18,14 +18,15 @@ I like computer projects, I am a big fan of **Raspberry pi** since the release o
 - [x] Python (2.1/2.7/3)
 - [x] Assembly
 - [x] Bash
+- [x] C# (OLEBD, LINQ, WINFORMS)
 
 [Resume](https://lostsh.github.io/assets/pages/about.html)
 
 ## Some fun projects
 
-|Borne d'arcade|Sunny|OpenBoat|linkeDisplay
-|--------------|--------------|--------------|--------------|
-||[Sunny project website](https://lostsh.github.io/sunny/)|[OpenBoat GitHub repo](https://github.com/lostsh/openBoat)|[linkeDisplay website](https://lostsh.github.io/linkeDisplay/)  [linkeDisplay GitHub repo](https://github.com/lostsh/linkeDisplay)
+|Borne d'arcade|Sunny|OpenBoat|
+|--------------|--------------|--------------|
+||[Sunny project website](https://lostsh.github.io/sunny/)|[OpenBoat GitHub repo](https://github.com/lostsh/openBoat)|
 |![arcade front](img/arcade0.JPG)|![sunny](img/sunny0.JPG)|![boat](img/boat.JPG)|
 |![arcade content](img/arcade1.JPG)|![making sunny](img/sunny1.jpg)|![radio control](img/radioCtrl1.JPG)|
 |![arcade pi](img/arcade2.JPG)|![sunny solar detector](img/sunny2.jpg)|![making radio control](img/radioCtrl2.JPG)|
