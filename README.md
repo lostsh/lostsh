@@ -1,3 +1,6 @@
+![my fun banner](img/C4F86B7F-FD61-4097-8C6A-19C9380FDC60.png)
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on my chair, okay it sucks, I work on various projects, in particular the Self-e project.
