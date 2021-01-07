@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Current Projects acheivement
+## Completion of some projects
 
 ```bash
 Perso Blog        ███████░░░░░░░░░░░░░░░░░░░░░░░    32%
