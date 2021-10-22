@@ -3,9 +3,12 @@
 
 ### Hi there 👋
 
+<img align="right" width="300" src="https://user-images.githubusercontent.com/43549864/138458537-ec0cfb11-8cd0-4ea2-80b0-916694b2f796.png">
+
 - 🔭 I’m currently working on my chair, okay it sucks, I work on various projects, in particular the Self-e project.
 - 🌱 I’m currently learning lots of things ! stuff like some programming languages, or computer paradigms, practices or whatever
 - 💬 Ask me about whatever you want !
+- 👯 Studying at CY-Tech (ex EISTI) 
 
 ## About me
 I am a student in the first year of computer engineering school.<br>
