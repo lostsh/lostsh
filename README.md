@@ -8,22 +8,53 @@
 - 💬 Ask me about whatever you want !
 
 ## About me
-I am in the second year of a DUT in computer science.
+I am a student in the first year of computer engineering school.<br>
 I have been passionate about computers for a long time, before knowing how to program I learned to repair, assemble and install computers, then came the code, and I really love it all.
 
 I like computer projects, I am a big fan of **Raspberry pi** since the release of the 1B + model moreover I also particularly like **Aduino**
+
+<img align="right" height="300" src="https://user-images.githubusercontent.com/43549864/138455537-99b638ce-9af2-4ed8-adcb-a7a8950c94be.png">
 
 #### Languages I can probably do stuff in
 - [x] C99 (Cpp ino)
 - [x] Java
 - [x] JS/HTML/CSS
 - [x] PHP
-- [x] Python (2.1/2.7/3)
+- [x] Python (1.7/2.1/2.7/3)
 - [x] Assembly
 - [x] Bash
 - [x] C# (OLEBD, LINQ, WINFORMS)
 
-[Resume](https://lostsh.github.io/assets/pages/about.html)
+<!--
+```bash
+╔═════════════════════════════╗
+║  █████╗ █╗ █████╗ █████╗ █╗ ║
+║  █╔═══╝ █║ █╔═══╝ ╚═█╔═╝ █║ ║
+║  ███╗   █║ █████╗   █║   █║ ║
+║  █╔═╝   █║ ╚═══█║   █║   █║ ║
+║  █████╗ █║ █████║   █║   █║ ║
+║  ╚════╝ ╚╝ ╚════╝   ╚╝   ╚╝ ║
+╚═════════════════════════════╝
+
+┌─────────────────────────────┐
+│  ╔═════════╗     ┏┅┅┅┅┅┅┓   │▒
+│  ║ MORPION ║     ┇ GAME ┇   │▒
+│  ╚════╦════╝     ┗┅┅┅┅┅┅┛   │▒
+╞═╤═════╩═════╤═══════════════╡▒
+│ ├───┬───┬───┤               │▒
+│ │ X │   │ O │   ╭╴      ╶╮  │▒
+│ ├───┼───┼───┤   │   BY   │  │▒
+│ │   │ X │ O │   │        │  │▒
+│ ├───┼───┼───┤   │ LOSTSH │  │▒
+│ │   │   │ X │   ╰╴      ╶╯  │▒
+│ └───┴───┴───┘               │▒
+└─────────────────────────────┘▒
+ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+
+```
+-->
+
+Take a look at my [Resume](https://lostsh.github.io/pages/about.html).
 
 ## Some fun projects
 
