@@ -3,7 +3,8 @@
 
 ### Hi there 👋
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/43549864/138458537-ec0cfb11-8cd0-4ea2-80b0-916694b2f796.png">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/43549864/139094023-1ed51fb9-e16b-4be3-9b29-237df183a37b.png">
+
 
 - 🔭 I’m currently working on my chair, okay it sucks, I work on various projects, in particular the Self-e project.
 - 🌱 I’m currently learning lots of things ! stuff like some programming languages, or computer paradigms, practices or whatever
