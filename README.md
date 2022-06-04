@@ -87,9 +87,9 @@ Here are some ideas to get you started:
 
 ## Fun stats
 
-<img alt="lostsh language stats" align="right" height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostsh&langs_count=10&layout=compact&custom_title=🌱%20Most%20committed%20Languages&theme=swift">
+<img alt="lostsh language stats" align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostsh&langs_count=10&layout=compact&custom_title=🌱%20Most%20committed%20Languages&theme=swift">
 
-<img alt="lostsh GitHub stats" height="215" src="https://github-readme-stats.vercel.app/api?username=lostsh&show_icons=true&hide=contribs&include_all_commits=true&custom_title=Yohann%20Vernhes%20💾%20@l0stsh&theme=swift">
+<img alt="lostsh GitHub stats" height="200" src="https://github-readme-stats.vercel.app/api?username=lostsh&show_icons=true&hide=contribs&include_all_commits=true&custom_title=Yohann%20Vernhes%20💾%20@l0stsh&theme=swift">
 
 
 <!--
