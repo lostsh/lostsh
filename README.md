@@ -12,8 +12,8 @@
 - 👯 Studying at CY-Tech (ex EISTI) 
 
 ## About me
-I am a student in the first year of computer engineering school.<br>
-I have been passionate about computers for a long time, before knowing how to program I learned to repair, assemble and install computers, then came the code, and I really love it all.
+📝 I am a student in the first year of computer engineering school.<br>
+💾 I have been passionate about computers for a long time, before knowing how to program I learned to repair 🛠️, assemble and install computers 🖥️, then came the code 👨‍💻 , and I really love it all 🫀.
 
 I like computer projects, I am a big fan of **Raspberry pi** since the release of the 1B + model moreover I also particularly like **Aduino**
 
@@ -84,6 +84,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Fun stats
+
+<img alt="lostsh language stats" align="right" height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostsh&langs_count=10&layout=compact&custom_title=🌱%20Most%20committed%20Languages&theme=swift">
+
+<img alt="lostsh GitHub stats" height="215" src="https://github-readme-stats.vercel.app/api?username=lostsh&show_icons=true&hide=contribs&include_all_commits=true&custom_title=Yohann%20Vernhes%20💾%20@l0stsh&theme=swift">
+
+
+<!--
+![lostsh GitHub stats](https://github-readme-stats.vercel.app/api?username=lostsh&show_icons=true&hide=contribs&include_all_commits=true&custom_title=Yohann%20Vernhes%20💾%20@l0stsh&theme=swift)
+
+![lostsh GitHub stats](https://github-readme-stats.vercel.app/api?username=lostsh&show_icons=true&hide=contribs&include_all_commits=true&custom_title=Yohann%20Vernhes%20💾%20@l0stsh&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![lostsh GitHub stats](https://github-readme-stats.vercel.app/api?username=lostsh&show_icons=true&hide=contribs&include_all_commits=true&custom_title=Yohann%20Vernhes%20💾%20@l0stsh&theme=gotham)
+
+![lostsh GitHub stats](https://github-readme-stats.vercel.app/api?username=lostsh&show_icons=true&hide=contribs&include_all_commits=true&custom_title=Yohann%20Vernhes%20💾%20@l0stsh&theme=github_dark)
+
+![lostsh GitHub stats](https://github-readme-stats.vercel.app/api?username=lostsh&show_icons=true&hide=contribs&include_all_commits=true&custom_title=Yohann%20Vernhes%20💾%20@l0stsh&theme=midnight-purple)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lostsh&langs_count=10&layout=compact&custom_title=🌱%20Most%20committed%20Languages&theme=swift)
+-->
+
 
 ## Completion of some projects
 
