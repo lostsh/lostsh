@@ -6,7 +6,7 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/43549864/139094023-1ed51fb9-e16b-4be3-9b29-237df183a37b.png">
 
 
-- 🔭 I’m currently working on my chair, okay it sucks, I work on various projects, in particular the Self-e project.
+- 🔭 I’m currently working on my chair ... I work on various projects, in particular the Self-e project.
 - 🌱 I’m currently learning lots of things ! stuff like some programming languages, or computer paradigms, practices or whatever
 - 💬 Ask me about whatever you want !
 - 👯 Studying at CY-Tech (ex EISTI) 
