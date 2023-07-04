@@ -12,7 +12,7 @@
 - 👯 Studying at CY-Tech (ex EISTI) 
 
 ## About me
-📝 I am a student in the first year of computer engineering school.<br>
+📝 I am a student in second year of computer engineering school.<br>
 💾 I have been passionate about computers for a long time, before knowing how to program I learned to repair 🛠️, assemble and install computers 🖥️, then came the code 👨‍💻 , and I really love it all 🫀.
 
 I like computer projects, I am a big fan of **Raspberry pi** since the release of the 1B + model moreover I also particularly like **Aduino**
