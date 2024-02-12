@@ -6,13 +6,13 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/43549864/139094023-1ed51fb9-e16b-4be3-9b29-237df183a37b.png">
 
 
-- 🔭 I’m currently working on my chair ... I work on various projects, in particular the Self-e project.
+- 🔭 I’m currently working on my chair ... (on various projects, _particularly the Self-e project_).
 - 🌱 I’m currently learning lots of things ! stuff like some programming languages, or computer paradigms, practices or whatever
 - 💬 Ask me about whatever you want !
 - 👯 Studying at CY-Tech (ex EISTI) 
 
 ## About me
-📝 I am a student in second year of computer engineering school.<br>
+📝 I am a student in last year of computer engineering school.<br>
 💾 I have been passionate about computers for a long time, before knowing how to program I learned to repair 🛠️, assemble and install computers 🖥️, then came the code 👨‍💻 , and I really love it all 🫀.
 
 I like computer projects, I am a big fan of **Raspberry pi** since the release of the 1B + model moreover I also particularly like **Aduino**
