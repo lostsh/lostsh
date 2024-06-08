@@ -1,6 +1,3 @@
-![pxl_korea](https://github.com/lostsh/lostsh/assets/43549864/2b1d0d35-ff32-4eeb-a705-1e9c39462b13)![my fun banner](img/C4F86B7F-FD61-4097-8C6A-19C9380FDC60.png)
-
-
 ### Hi there 👋
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/43549864/139094023-1ed51fb9-e16b-4be3-9b29-237df183a37b.png">
