@@ -1,4 +1,4 @@
-![my fun banner](img/C4F86B7F-FD61-4097-8C6A-19C9380FDC60.png)
+![pxl_korea](https://github.com/lostsh/lostsh/assets/43549864/2b1d0d35-ff32-4eeb-a705-1e9c39462b13)![my fun banner](img/C4F86B7F-FD61-4097-8C6A-19C9380FDC60.png)
 
 
 ### Hi there 👋
@@ -128,3 +128,7 @@ Blog Editor JFX   ██████████░░░░░░░░░░�
 
 SDL - Lib         ████░░░░░░░░░░░░░░░░░░░░░░░░░░    13%
 ```
+
+
+$$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.1; background: url('https://github.com/lostsh/lostsh/assets/43549864/76ebbdd1-c97c-4f97-b17f-7f35316c4681');]{x0000}$}$$
+
