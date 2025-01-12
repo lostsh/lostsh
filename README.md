@@ -1,12 +1,18 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+
+<img src="img/C4F86B7F-FD61-4097-8C6A-19C9380FDC60.png">
+
+<!--
+<img align="right" width="300" src="https://user-images.githubusercontent.com/43549864/139094023-1ed51fb9-e16b-4be3-9b29-237df183a37b.png">
+-->
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/43549864/139094023-1ed51fb9-e16b-4be3-9b29-237df183a37b.png">
 
-
-- 🔭 I’m currently working on my chair ... (on various projects, _like the Self-e project_).
-- 🌱 I’m currently learning lots of things ! stuff like some programming languages, or computer paradigms, practices or whatever
-- 💬 Ask me about whatever you want !
-- 👯 Studying at CY-Tech (ex EISTI) 
+<!--
+#### todo mettre un singletton de code pour remplacer ça-->
+- 🔭 Professional problem solver with a developer degree
+- 👯 Engineer made in CY-Tech (ex EISTI) 
+- 🌱 Passionate about learning new things
 
 ## About me
 📝 I am a student in last year of computer engineering school.<br>
