@@ -1,25 +1,58 @@
 <!--### Hi there 👋-->
 
+<!--
 <img src="img/C4F86B7F-FD61-4097-8C6A-19C9380FDC60.png">
 
-<!--
 <img align="right" width="300" src="https://user-images.githubusercontent.com/43549864/139094023-1ed51fb9-e16b-4be3-9b29-237df183a37b.png">
 -->
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/43549864/139094023-1ed51fb9-e16b-4be3-9b29-237df183a37b.png">
+<!--
+<img align="left" width="500" src="img/carbon(4).png">
+-->
+
+```csharp
+using System;
+
+namespace OpenSource {
+	class VernhesYohann : ICybersecurityEngineer, IFullStackDeveloper {
+		public VernhesYohann() {
+			this.hobbies = new Dictionary<Level, Hobby>() {
+              {Level.ObsessedWith, Hobby{"Raspberry pi", "Arduino"}},
+              {Level.Warhorse, Hobby{"Repair absolutely anything"}},
+              {Level.OldStager, Hobby{"Modeling Elec/Meca"}},
+              {new Level{...}, new Hobby{...}}
+            };
+        }
+      
+        static Solution[] solve(string[] problem) {
+            return lostsh.solve(problem);
+        }
+      	
+      	void learn(void** unknown) {
+          	this.experience += lostsh.understand(unknown);
+        }
+    
+    }
+  
+}
+```
+
 
 <!--
-#### todo mettre un singletton de code pour remplacer ça-->
 - 🔭 Professional problem solver with a developer degree
 - 👯 Engineer made in CY-Tech (ex EISTI) 
 - 🌱 Passionate about learning new things
+-->
 
+<!--
 ## About me
 📝 I am a student in last year of computer engineering school.<br>
 💾 I have been passionate about computers for a long time, before knowing how to program I learned to repair 🛠️, assemble and install computers 🖥️, then came the code 👨‍💻 , and I really love it all 🫀.
 
 I like computer projects, I am a big fan of **Raspberry pi** since the release of the 1B + model moreover I also particularly like **Aduino**
+-->
 
+<hr>
 <img align="right" height="300" src="https://user-images.githubusercontent.com/43549864/138455537-99b638ce-9af2-4ed8-adcb-a7a8950c94be.png">
 
 #### Languages I can probably do stuff in
