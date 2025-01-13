@@ -61,7 +61,7 @@ namespace OpenSource {
 
 <img src="https://img.shields.io/badge/SE--LINUX-gray?style=flat&logo=Linux" alt="SE-LINUX" />
 
-> Dev overview :
+<hr>
 - [x] ![C99](https://img.shields.io/badge/C99-passing-green?style=flat&logo=cpp)
 - [x] ![cpp](https://img.shields.io/badge/Cpp/ino-passing-green?style=flat)
 - [x] ![java](https://img.shields.io/badge/JAVA-passing-green?style=flat) ![SE](https://img.shields.io/badge/SE-gray?style=flat) ![EE](https://img.shields.io/badge/EE-gray?style=flat)
