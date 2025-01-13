@@ -48,7 +48,7 @@ namespace OpenSource {
 <img src="https://img.shields.io/badge/forensics-passed-blue?style=flat" alt="forensics" /><img src="https://img.shields.io/badge/reverse--engineering-passed-violet?style=flat" alt="reverse-engineering" /> <br> <img src="https://img.shields.io/badge/malware--analysis-passed-blue?style=flat" alt="malware-analysis" /><img src="https://img.shields.io/badge/malware--detection-passed-aliceblue?style=flat" alt="malware-detection" /> <br><img src="https://img.shields.io/badge/applied--AI-passed-blue?style=flat" alt="applied-AI" />
 </td></tr>
 <tr><td>Infrastructure <br>& Network</td><td>
-<img src="https://img.shields.io/badge/hardening-net-red?labelColor=gold&style=flat" alt="hardening" /> <img src="https://img.shields.io/badge/network--security-net-red?labelColor=gold&style=flat" alt="network-security" /> <img src="https://img.shields.io/badge/blockchain-net-red?labelColor=gold&style=flat" alt="blockchain" /> <img src="https://img.shields.io/badge/iam-PAM-green?style=flat" alt="iam" />
+<img src="https://img.shields.io/badge/hardening-net-red?labelColor=gold&style=flat" alt="hardening" /> <img src="https://img.shields.io/badge/network--security-net-red?labelColor=gold&style=flat" alt="network-security" /> <br><img src="https://img.shields.io/badge/blockchain-net-red?labelColor=gold&style=flat" alt="blockchain" /> <img src="https://img.shields.io/badge/iam-PAM-green?style=flat" alt="iam" />
 </td></tr>
 </table>
 
