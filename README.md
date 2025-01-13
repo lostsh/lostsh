@@ -39,13 +39,13 @@ namespace OpenSource {
 
 <table border=1 align="left">
 <tr><td>Cybersecurity <br>Management</td><td>
-<img src="https://img.shields.io/badge/EBIOS%20RM-passing-green?style=flat" alt="EBIOS RM" /> <img src="https://img.shields.io/badge/ISO/IEC-2700x-green?style=flat" alt="ISO/IEC" /> <br><img src="https://img.shields.io/badge/incident%20response-passed-green?style=flat" alt="incident response" /> <img src="https://img.shields.io/badge/Crisis%20management-passed-green?style=flat" alt="Crisis management" /> <br><img src="https://img.shields.io/badge/strategic--economic--intell-passed-green?style=flat" alt="strategic-economic-intell" />
+<img src="https://img.shields.io/badge/EBIOS%20RM-passing-green?style=flat" alt="EBIOS RM" /> <img src="https://img.shields.io/badge/ISO/IEC-2700x-green?style=flat" alt="ISO/IEC" /> <br><img src="https://img.shields.io/badge/incident%20response-passed-green?style=flat" alt="incident response" /><br> <img src="https://img.shields.io/badge/Crisis%20management-passed-green?style=flat" alt="Crisis management" /> <br><img src="https://img.shields.io/badge/strategic--economic--intell-passed-green?style=flat" alt="strategic-economic-intell" />
 </td></tr>
 <tr><td>OffSec</td><td>
-<img src="https://img.shields.io/badge/hardening-OK-red?style=flat" alt="hardening" /> <img src="https://img.shields.io/badge/cryptography-OK-red?style=flat" alt="cryptography" /> <br> <img src="https://img.shields.io/badge/malware-OK-red?style=flat" alt="malware" /> <img src="https://img.shields.io/badge/shellcode-OK-red?style=flat" alt="shellcode" /> <img src="https://img.shields.io/badge/pentest-OK-red?style=flat" alt="pentest" /> <br><img src="https://img.shields.io/badge/auditd-OK-red?style=flat" alt="auditd" /> <img src="https://img.shields.io/badge/web--sec-OK-red?style=flat" alt="web-sec" /> <img src="https://img.shields.io/badge/industrial--security-OK-red?style=flat" alt="industrial-security" />
+<img src="https://img.shields.io/badge/hardening-OK-red?style=flat" alt="hardening" /> <img src="https://img.shields.io/badge/cryptography-OK-red?style=flat" alt="cryptography" /> <br> <img src="https://img.shields.io/badge/malware-OK-red?style=flat" alt="malware" /> <img src="https://img.shields.io/badge/shellcode-OK-red?style=flat" alt="shellcode" /> <img src="https://img.shields.io/badge/pentest-OK-red?style=flat" alt="pentest" /> <br><img src="https://img.shields.io/badge/auditd-OK-red?style=flat" alt="auditd" /> <img src="https://img.shields.io/badge/web--sec-OK-red?style=flat" alt="web-sec" /><br> <img src="https://img.shields.io/badge/industrial--security-OK-red?style=flat" alt="industrial-security" />
 </td></tr>
 <tr><td>Digital <br>investigation</td><td>
-<img src="https://img.shields.io/badge/forensics-passed-blue?style=flat" alt="forensics" /><img src="https://img.shields.io/badge/reverse--engineering-passed-violet?style=flat" alt="reverse-engineering" /> <br> <img src="https://img.shields.io/badge/malware--analysis-passed-blue?style=flat" alt="malware-analysis" /><img src="https://img.shields.io/badge/malware--detection-passed-aliceblue?style=flat" alt="malware-detection" /> <br><img src="https://img.shields.io/badge/applied--AI-passed-blue?style=flat" alt="applied-AI" />
+<img src="https://img.shields.io/badge/forensics-passed-blue?style=flat" alt="forensics" /><img src="https://img.shields.io/badge/reverse--engineering-passed-violet?style=flat" alt="reverse-engineering" /> <br> <img src="https://img.shields.io/badge/malware--analysis-passed-blue?style=flat" alt="malware-analysis" /> <br><img src="https://img.shields.io/badge/malware--detection-passed-aliceblue?style=flat" alt="malware-detection" /> <br><img src="https://img.shields.io/badge/applied--AI-passed-blue?style=flat" alt="applied-AI" />
 </td></tr>
 <tr><td>Infrastructure <br>& Network</td><td>
 <img src="https://img.shields.io/badge/hardening-net-red?labelColor=gold&style=flat" alt="hardening" /> <img src="https://img.shields.io/badge/network--security-net-red?labelColor=gold&style=flat" alt="network-security" /> <br><img src="https://img.shields.io/badge/blockchain-net-red?labelColor=gold&style=flat" alt="blockchain" /> <img src="https://img.shields.io/badge/iam-PAM-green?style=flat" alt="iam" />
@@ -56,7 +56,8 @@ namespace OpenSource {
 
 <br>&nbsp;<br>
 <br><br><br><br><br><br><br><br>
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
+<br>
 <img align="center" src="https://img.shields.io/badge/SE--LINUX-gray?style=flat&logo=Linux" alt="SE-LINUX" />
 <hr>
 
