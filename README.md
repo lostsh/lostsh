@@ -35,40 +35,32 @@ namespace OpenSource {
 }
 ```
 
-
-<a title="Checkout some data leak" href="https://lostsh.github.io">
-<img align="right" height="300" src="https://user-images.githubusercontent.com/43549864/138455537-99b638ce-9af2-4ed8-adcb-a7a8950c94be.png">
-</a>
-
-
-
 #### Small quick propaganda :
 
-<table border=1>
+<table border=1 align="left">
 <tr><td>Cybersecurity Management</td><td>
-<img src="https://img.shields.io/badge/EBIOS%20RM-passing-green?style=flat" alt="EBIOS RM" /><img src="https://img.shields.io/badge/ISO/IEC-2700x-green?style=flat" alt="ISO/IEC" /><img src="https://img.shields.io/badge/incident%20response-passed-green?style=flat" alt="incident response" /><img src="https://img.shields.io/badge/Crisis%20management-passed-green?style=flat" alt="Crisis management" /><img src="https://img.shields.io/badge/strategic--economic--intell-passed-green?style=flat" alt="strategic-economic-intell" />
+<img src="https://img.shields.io/badge/EBIOS%20RM-passing-green?style=flat" alt="EBIOS RM" /> <img src="https://img.shields.io/badge/ISO/IEC-2700x-green?style=flat" alt="ISO/IEC" /> <br><img src="https://img.shields.io/badge/incident%20response-passed-green?style=flat" alt="incident response" /> <img src="https://img.shields.io/badge/Crisis%20management-passed-green?style=flat" alt="Crisis management" /> <br><img src="https://img.shields.io/badge/strategic--economic--intell-passed-green?style=flat" alt="strategic-economic-intell" />
 </td></tr>
 <tr><td>OffSec</td><td>
-<img src="https://img.shields.io/badge/hardening-OK-red?style=flat" alt="hardening" /> <img src="https://img.shields.io/badge/cryptography-OK-red?style=flat" alt="cryptography" /> <img src="https://img.shields.io/badge/malware-OK-red?style=flat" alt="malware" /> <img src="https://img.shields.io/badge/shellcode-OK-red?style=flat" alt="shellcode" /> <img src="https://img.shields.io/badge/pentest-OK-red?style=flat" alt="pentest" /> <img src="https://img.shields.io/badge/auditd-OK-red?style=flat" alt="auditd" /> <img src="https://img.shields.io/badge/web--sec-OK-red?style=flat" alt="web-sec" /> <img src="https://img.shields.io/badge/industrial--security-OK-red?style=flat" alt="industrial-security" />
+<img src="https://img.shields.io/badge/hardening-OK-red?style=flat" alt="hardening" /> <img src="https://img.shields.io/badge/cryptography-OK-red?style=flat" alt="cryptography" /> <br> <img src="https://img.shields.io/badge/malware-OK-red?style=flat" alt="malware" /> <img src="https://img.shields.io/badge/shellcode-OK-red?style=flat" alt="shellcode" /> <img src="https://img.shields.io/badge/pentest-OK-red?style=flat" alt="pentest" /> <br><img src="https://img.shields.io/badge/auditd-OK-red?style=flat" alt="auditd" /> <img src="https://img.shields.io/badge/web--sec-OK-red?style=flat" alt="web-sec" /> <img src="https://img.shields.io/badge/industrial--security-OK-red?style=flat" alt="industrial-security" />
 </td></tr>
 <tr><td>Digital investigation</td><td>
-<img src="https://img.shields.io/badge/forensics-passed-blue?style=flat" alt="forensics" /><img src="https://img.shields.io/badge/reverse--engineering-passed-violet?style=flat" alt="reverse-engineering" /><img src="https://img.shields.io/badge/malware--analysis-passed-blue?style=flat" alt="malware-analysis" /><img src="https://img.shields.io/badge/malware--detection-passed-aliceblue?style=flat" alt="malware-detection" /><img src="https://img.shields.io/badge/applied--AI-passed-blue?style=flat" alt="applied-AI" />
+<img src="https://img.shields.io/badge/forensics-passed-blue?style=flat" alt="forensics" /><img src="https://img.shields.io/badge/reverse--engineering-passed-violet?style=flat" alt="reverse-engineering" /> <br> <img src="https://img.shields.io/badge/malware--analysis-passed-blue?style=flat" alt="malware-analysis" /><img src="https://img.shields.io/badge/malware--detection-passed-aliceblue?style=flat" alt="malware-detection" /> <br><img src="https://img.shields.io/badge/applied--AI-passed-blue?style=flat" alt="applied-AI" />
 </td></tr>
 <tr><td>Infrastructure & Network</td><td>
 <img src="https://img.shields.io/badge/hardening-net-red?labelColor=gold&style=flat" alt="hardening" /> <img src="https://img.shields.io/badge/network--security-net-red?labelColor=gold&style=flat" alt="network-security" /> <img src="https://img.shields.io/badge/blockchain-net-red?labelColor=gold&style=flat" alt="blockchain" /> <img src="https://img.shields.io/badge/iam-PAM-green?style=flat" alt="iam" />
 </td></tr>
 </table>
 
-<img src="https://img.shields.io/badge/SE--LINUX-gray?style=flat&logo=Linux" alt="SE-LINUX" />
+<a title="Checkout some data leak" href="https://lostsh.github.io"><img align="right" height="300" src="https://user-images.githubusercontent.com/43549864/138455537-99b638ce-9af2-4ed8-adcb-a7a8950c94be.png"></a>
 
+<br>&nbsp;<br>
+<br><br><br><br><br><br><br><br>
+<br><br><br><br>
+<img align="center" src="https://img.shields.io/badge/SE--LINUX-gray?style=flat&logo=Linux" alt="SE-LINUX" />
 <hr>
-- [x] ![C99](https://img.shields.io/badge/C99-passing-green?style=flat&logo=cpp)
-- [x] ![cpp](https://img.shields.io/badge/Cpp/ino-passing-green?style=flat)
-- [x] ![java](https://img.shields.io/badge/JAVA-passing-green?style=flat) ![SE](https://img.shields.io/badge/SE-gray?style=flat) ![EE](https://img.shields.io/badge/EE-gray?style=flat)
-- [x] ![Python ](https://img.shields.io/badge/Python-1.7%20/%202.1%20/%202.7%20/%203-green?style=flat)
-- [x] ![Assembly](https://img.shields.io/badge/Assembly-alot-green?style=flat&logo=Undertale)
-- [x] ![Bash + GO](https://img.shields.io/badge/Bash%20+%20GO-automate-green?style=flat&logo=Go)
-- [x] ![Csharp](https://img.shields.io/badge/Csharp-passing-green?style=flat&logo=sharp)
+
+ ![C99](https://img.shields.io/badge/C99-passing-green?style=flat&logo=cpp) ![cpp](https://img.shields.io/badge/Cpp/ino-passing-green?style=flat) ![java](https://img.shields.io/badge/JAVA-passing-green?style=flat)  ![SE](https://img.shields.io/badge/SE-gray?style=flat) ![EE](https://img.shields.io/badge/EE-gray?style=flat) ![Python ](https://img.shields.io/badge/Python-1.7%20/%202.1%20/%202.7%20/%203-green?style=flat) ![Assembly](https://img.shields.io/badge/Assembly-alot-green?style=flat&logo=Undertale) ![Bash + GO](https://img.shields.io/badge/Bash%20+%20GO-automate-green?style=flat&logo=Go) ![Csharp](https://img.shields.io/badge/Csharp-passing-green?style=flat&logo=sharp)
 
 
 <hr>
