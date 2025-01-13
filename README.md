@@ -29,7 +29,7 @@ namespace OpenSource {
         }
         
         void learn(void** unknown) {
-            this.experience += lostsh.understand(unknown);
+            this.experience.append(lostsh.understand(unknown));
         }
     }
 }
