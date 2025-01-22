@@ -38,7 +38,7 @@ namespace OpenSource {
 
 ## Small quick propaganda :
 
-<table border=0>
+<table>
 <tr><td>
 
 <table border=1 align="left">
