@@ -36,6 +36,93 @@ namespace OpenSource {
 }
 ```
 
+```
+╔══════════════════════════ TERMINAL SESSION ══════════════════════════╗
+║ YohannOS v3.0.1 [Terminal Build 20250730]                            ║
+║ © 2025 Lost Shell Foundation - All bytes reserved                    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Connected from: lostsh@github.com                                    ║
+║ Current session: 2025-07-30 14:09:35 UTC                             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ $ neofetch                                                           ║
+║     ┌───────┬───────┬───────┐           Loaded:                      ║
+║     │       │ █████ │       │▒           ├─ Cybersecurity/           ║
+║     │       │███████│       │▒           │  ├─ Offsec                ║
+║     │       │ █████ │       │▒           │  ├─ Defsec                ║
+║     ├───────┼───────┼───────┤▒           │  ├─ Forensic              ║
+║     │       │       │ █████ │▒           │  ├─ Network               ║
+║     │       │       │███████│▒           │  └─ OS/Hardening          ║
+║     │       │       │ █████ │▒           │                           ║
+║     ├───────┼───────┼───────┤▒           ├─ Attributes/              ║
+║     │ █████ │ █████ │ █████ │▒           │  ├─ Problem Solver        ║
+║     │███████│███████│███████│▒           │  ├─ OpenSource            ║
+║     │ █████ │ █████ │ █████ │▒           │  └─ Learner               ║
+║     └───────┴───────┴───────┘▒           │                           ║
+║       ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒           └─ Collaboration ready      ║
+║                                                                      ║
+║ lostsh@github                                                        ║
+║ ------------------                                                   ║
+║ OS: YohannOS 3.0.1 x86_64 / ARM                                      ║
+║ Host: GitHub Profile                                                 ║
+║ Kernel: Creative Thinking                                            ║
+║ Uptime: 7+ years                                                     ║
+║ Packages: 175 (repos), 25 (gists)                                    ║
+║ Shell: /bin/innovation                                               ║
+║ Terminal: dev/tty/passion                                            ║
+║ CPU: Problem Solver 4200MHz                                          ║
+║ Memory: ∞ GB Innovation / ∞ GB Experience                            ║
+║                                                                      ║
+║ $ cat /etc/profile.d/skills.conf                                     ║
+║ # Core competencies loaded at login                                  ║
+║ export LANGUAGES="C/C++ C# Java Python JS Bash"                      ║
+║ export INTERESTS="Innovation Security OpenSource"                    ║
+║ export LEARNING="Always=true"                                        ║
+║                                                                      ║
+║ $ systemctl status brain                                             ║
+║ ● brain.service - Neural Network Management System                   ║
+║   Active: active (thinking) since 2017-04-01 14:09:35 UTC            ║
+║   Process: 1337 ExecStart=/usr/bin/create --mode=innovative          ║
+║   Main PID: 42 (imagination)                                         ║
+║   Tasks: 9999 (limit: ∞)                                             ║
+║   Memory: 42.0G / ∞ used                                             ║
+║   Status: Ready for collaboration                                    ║
+║                                                                      ║
+║ $ go build generate_random_fact.go && ./generate_random_fact         ║
+║ → Did you know? My code runs on caffeine and curiosity! ☕           ║
+║                                                                      ║
+║ $ nc -l 1337                                                         ║
+║ → Listening for cool project ideas...                                ║
+║ → Connect via:                                                       ║
+║   - 📧 yohann.vernhes@gmail.com                                      ║
+║   - 🌐 lostsh.github.io                                              ║
+║   - 🐦 @l0stsh                                                       ║
+║                                                                      ║
+║ $ cowsay "Au revoir!"                                                ║
+║  _____________                                                       ║
+║ < Au revoir! >                                                       ║
+║  -------------                                                       ║
+║         \   ^__^                                                     ║
+║          \  (oo)\_______                                             ║
+║             (__)\       )\/\                                         ║
+║                 ||----w |                                            ║
+║                 ||     ||                                            ║
+║                                                                      ║
+║ [Process completed with exit code 0]                                 ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<!-- Hidden commands for the curious:
+     $ sudo rm -rf stress/
+     → Successfully deleted all stress! I like to work under pressure.
+     $ make coffee
+     → ☕ Here's your virtual coffee!
+     $ git blame life
+     → No one to blame, just keep coding!
+     $ ssh thoughts@brain
+     → Permission denied (creativity overload)
+-->
+
+```
+
 ## Small quick propaganda :
 
 <table>
