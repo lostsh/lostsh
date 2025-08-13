@@ -11,30 +11,7 @@
 -->
 
 
-```csharp
-using System;
 
-namespace OpenSource {
-    class VernhesYohann : ICybersecurityEngineer, IFullStackDeveloper {
-        public VernhesYohann() {
-            this.hobbies = new Dictionary<Level, Hobby>() {
-                {Level.ObsessedWith, Hobby{"Raspberry pi", "Arduino"}},
-                {Level.Warhorse, Hobby{"Repair absolutely anything"}},
-                {Level.OldStager, Hobby{"Modeling Elec/Meca"}},
-                {new Level{...}, new Hobby{...}}
-            };
-        }
-        
-        static Solution[] solve(string[] problem) {
-            return lostsh.solve(problem);
-        }
-        
-        void learn(void** unknown) {
-            this.experience.append(lostsh.understand(unknown));
-        }
-    }
-}
-```
 
 ```
 ╔══════════════════════════ TERMINAL SESSION ══════════════════════════╗
@@ -120,6 +97,31 @@ namespace OpenSource {
      $ ssh thoughts@brain
      → Permission denied (creativity overload)
 -->
+
+```csharp
+using System;
+
+namespace OpenSource {
+    class VernhesYohann : ICybersecurityEngineer, IFullStackDeveloper {
+        public VernhesYohann() {
+            this.hobbies = new Dictionary<Level, Hobby>() {
+                {Level.ObsessedWith, Hobby{"Raspberry pi", "Arduino"}},
+                {Level.Warhorse, Hobby{"Repair absolutely anything"}},
+                {Level.OldStager, Hobby{"Modeling Elec/Meca"}},
+                {new Level{...}, new Hobby{...}}
+            };
+        }
+        
+        static Solution[] solve(string[] problem) {
+            return lostsh.solve(problem);
+        }
+        
+        void learn(void** unknown) {
+            this.experience.append(lostsh.understand(unknown));
+        }
+    }
+}
+```
 
 ```
 
